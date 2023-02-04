@@ -1,6 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #F1F1F1;
+  margin: 0;
+  padding: 0;
 }
 
 header {
